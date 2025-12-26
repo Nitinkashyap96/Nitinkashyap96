@@ -6,15 +6,24 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+
+<h1 align="center">Hi 👋, I'm Nitin Kashyhap</h600>
+<h3 align="center">A / junior VFX artist and developer.</h10>
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nitinkashyap96&label=Profile%20views&color=0e75b6&style=flat" alt="Nitinkashyap" /> </p>
+
 <!---
 Nitinkashyap96/Nitinkashyap96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nitinkashyap96&label=Profile%20views&color=0e75b6&style=flat" alt="faithcure" /> </p>
+
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=C++,py,qt,c,git," />
+    <img src="https://skillicons.dev/icons?i=C++,py,qt," />
   </a>
 </p>
 
