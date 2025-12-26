@@ -10,7 +10,7 @@
 Nitinkashyap96/Nitinkashyap96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nitinkashyap96&label=Profile%20views&color=0e75b6&style=flat" alt="faithcure" /> </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -64,6 +64,10 @@ You can click the Preview link to take a look at your changes.
 
 
 
-
+# The Social
+<h3 align="left">
+<p align="left">
+<a href="https://youtu.be/A7VFZzBC1LQ?si=Zj5spG2QX5XBmHeS/c/https://youtu.be/A7VFZzBC1LQ?si=Zj5spG2QX5XBmHeS/user229996277/c/viewportpro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://vimeo.com/user229996277" height="100" width="150" /></a>
+<a href="https://m.imdb.com/user/ur207446277/?ref_=ext_shr_lnk/" target="blank"><img align="center" src="http://www.fatihunal.net/wp-content/uploads/2021/03/imdb_logo.png" alt="https://www.imdb.com/name/nm10028691/" height="100" width="90" /></a>
 
 
