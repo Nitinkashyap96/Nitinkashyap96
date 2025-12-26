@@ -70,4 +70,19 @@ You can click the Preview link to take a look at your changes.
 <a href="https://youtu.be/A7VFZzBC1LQ?si=Zj5spG2QX5XBmHeS/c/https://youtu.be/A7VFZzBC1LQ?si=Zj5spG2QX5XBmHeS/user229996277/c/viewportpro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://vimeo.com/user229996277" height="100" width="150" /></a>
 <a href="https://m.imdb.com/user/ur207446277/?ref_=ext_shr_lnk/" target="blank"><img align="center" src="http://www.fatihunal.net/wp-content/uploads/2021/03/imdb_logo.png" alt="https://www.imdb.com/name/nm10028691/" height="100" width="90" /></a>
 
+</p>
+---
+
+
+
+
+<h10 align="left">Languages and Tools:</h20>
+
+
+
+<p align="left"> - Houdini</p>
+
+<p align="left"> - Foundry Nuke</p>
+
+<p align="left"> - Python</p>
 
