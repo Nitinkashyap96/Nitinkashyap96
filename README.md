@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nitin Kashyhap</h600>
 <h3 align="center">A / junior Lighting and Compositing Artist .</h10>
 
-![Project Header](https://capsule-render.vercel.app/api?type=blur&height=640&color=gradient&text=junior%70Compositor%20Artist&section=header&textBg=false&fontSize=60&animation=fadeIn)
+![Project Header](https://capsule-render.vercel.app/api?type=blur&height=640&color=gradient&text=junior_%_Compositor%20Artist&section=header&textBg=false&fontSize=60&animation=fadeIn)
 
 ---
 
