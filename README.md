@@ -20,6 +20,8 @@ You can click the Preview link to take a look at your changes.
 
 
 [![Nitin Kashyap: KALKI 2898 AD Showreel - 2024](https://ytcards.demolab.com/?id=1U4bhtptPwo&title=Nitin+Kashyap%3A+KALKI+2898+AD+Showreel+Showreel+-+2024&lang=en&timestamp=1722830485&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Nitin Kashyap: KALKI 2898 AD Showreel - 2024")](https://youtu.be/1U4bhtptPwo)
+[![Nitin Kashyap: Asal Kolaar - Champagini Music Video - 2025](https://ytcards.demolab.com/?id=da6iVRSxAdE&title=Nitin+Kashyap%3A+Asal+Kolaar+Champagini+Music+Video+-+2024&lang=en&timestamp=1722830485&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Nitin Kashyap: Asal Kolaar - Champagini Music Video - 2025")](https://youtu.be/da6iVRSxAdE)
+
 
 
 
